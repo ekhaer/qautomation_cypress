@@ -25,8 +25,8 @@ This project includes:
 - Understanding DOM interactions, assertions, and test structure.
 - Debugging and troubleshooting test failures.
 
-# 👤 About Me
+### 👤 About Me
 I’m Emilia, a passionate software engineer transitioning into QA automation. This is my first step toward building a strong portfolio in QA testing. I’m excited to keep learning and improving!
 
 ***Feel free to explore, fork, or contribute to this project. 😊*** 
-## Happy Testing! 🧪 
+#### Happy Testing! 🧪 
