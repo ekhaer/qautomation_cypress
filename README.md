@@ -5,7 +5,7 @@ This project showcases my skills in automating tests for an eCommerce web applic
 
 ### 🌐 Application Under Test
 The tests are written for an eCommerce web application available at:
-🔗 Rahul Shetty Academy - Selenium Practise
+🔗 https://rahulshettyacademy.com/seleniumPractise/#/
 
 ### 🛠️ Tech Stack
 Test Framework: Cypress
