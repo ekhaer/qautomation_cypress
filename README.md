@@ -1,18 +1,18 @@
-# 🚀 QA Automation Project with Cypress
+### 🚀 QA Automation Project with Cypress
 Welcome to my first Cypress automation testing project! 🎉
 
 This project showcases my skills in automating tests for an eCommerce web application. It was a great opportunity to explore Cypress and understand how to write reliable end-to-end tests.
 
-# 🌐 Application Under Test
+### 🌐 Application Under Test
 The tests are written for an eCommerce web application available at:
 🔗 Rahul Shetty Academy - Selenium Practise
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 Test Framework: Cypress
 Programming Language: JavaScript
 Test Runner: Cypress Test Runner
 
-# 🧪 Project Overview
+### 🧪 Project Overview
 This project includes:
 - End-to-End Tests for critical features of the eCommerce site.
 - Assertions to validate application behavior, such as:
@@ -20,7 +20,7 @@ This project includes:
 - Validating prices and cart totals
 - Checking order placement workflows
 
-# 🎯 What I Learned
+### 🎯 What I Learned
 - Writing automated end-to-end tests using Cypress.
 - Understanding DOM interactions, assertions, and test structure.
 - Debugging and troubleshooting test failures.
